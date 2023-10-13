@@ -27,7 +27,7 @@ Keras uses convolutional networks for image classification and recognition.
 
 > - training set accuracy 98% verification set accuracy 88%
 >
-> <img src="output/category.png" width="400">
+<img src="output/category.png" width="400">
 
 - Identification record
 
